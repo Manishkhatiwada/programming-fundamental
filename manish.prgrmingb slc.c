@@ -1,3 +1,11 @@
+/*
+student name:manish khatiwada
+roll_no:16
+subject:programming fundamental
+program:wap to check the result of a student
+labsheet no:10
+date:05/12/2016
+*/
 #include<stdio.h>
 #include<conio.h>
 int main()
